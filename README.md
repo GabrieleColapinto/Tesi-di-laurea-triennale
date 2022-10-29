@@ -4,7 +4,7 @@ La pubblico su GitHub perché il mio progetto di laurea è un prototipo e chi de
 
 **Potete consultare il file senza problemi**, infatti la seconda pagina della tesi contiene la liberatoria in cui autorizzo la consultazione del documento.
 
-Potete reperire i file del mio progetto qui.
+Potete reperire i file del mio progetto [qui](https://github.com/sisinflab/Polibot).
 
 ---
 ### Presentazione della tesi
